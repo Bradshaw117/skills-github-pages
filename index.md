@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: The first step in my journey. 
 ---
 
